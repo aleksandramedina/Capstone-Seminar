@@ -18,4 +18,4 @@ What can be changed / controlled:
 * stroke
 * amplitude
 
-
+![Prototype](/media/prototype_1.jpg)
