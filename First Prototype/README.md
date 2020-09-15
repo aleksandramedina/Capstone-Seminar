@@ -11,3 +11,11 @@ The goal of this project is to create a self generating art piece that can be lo
 Possible interactions:
 * one user controls the x coordinate of the mouse, while the other user controls the y coordinate
 
+What can be changed / controlled:
+* color
+* direction
+* randomization distribution
+* stroke
+* amplitude
+
+
