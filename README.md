@@ -6,5 +6,5 @@ Welcome to my **Capstone Seminar** repository. Here I will post my work from the
 <b>Currently working on:</b>👩🏼‍💻
 - [x] My first prototype
 - [x] My second prototype
-- [ ] My artist's statement
+- [ ] My artist statement
 - [ ] My bio
