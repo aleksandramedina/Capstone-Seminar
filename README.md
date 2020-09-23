@@ -4,5 +4,5 @@
 Welcome to my **Capstone Seminar** repository. Here I will post my work from the class.
 
 <b>Currently working on:</b>👩🏼‍💻
-- [ ] My first prototype
-
+- [ x ] My first prototype
+- [ x ] My second prototype
