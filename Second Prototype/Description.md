@@ -7,6 +7,6 @@ For my second prototype I have decided to adjust two details:
 
 - Add a physical component. I want users to be able to send somewhat cryptic messages to each other. For example, sending such signals as 'yes', 'no', 'up', 'down', 'right', 'left'.
 
-![Physical component visualization](media/prototype2_physical_digital.jpg)
+![Physical component visualization](/media/prototype2_physical_digital.jpg)
 
-![Arduino visualization](media/prototype2_physical_setup.jpg)
+![Arduino visualization](/media/prototype2_physical_setup.jpg)
