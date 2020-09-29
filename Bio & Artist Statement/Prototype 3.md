@@ -5,6 +5,11 @@ This week I thought more about two things:
 - how would the physical component look?
 
 
+First, I am considering what I want the resulting art piece to look like. Do I want it to be computer generated with human adjustments or human generated with computer interruptions?
+
+**Types of computer generated art I have considered:**
+
+
 [A continuous line](https://www.instagram.com/continuous.line/)
 
 
