@@ -9,3 +9,8 @@ This week I thought more about two things:
 
 
 ![A Continuous Line](/media/continuousline.JPG)
+
+
+
+P5 Generated Line Art
+
