@@ -6,3 +6,4 @@ This week I thought more about two things:
 
 
 [A continuous line](https://www.instagram.com/continuous.line/)
+![A Continuous Line](/media/continuousline.JPG)
