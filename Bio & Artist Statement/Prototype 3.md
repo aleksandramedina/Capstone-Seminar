@@ -24,3 +24,7 @@ P5 Generated Line Art
 
 In the case of human generated, computer interrupted art, I have been taking inspiration from [glitch art](https://www.behance.net/collection/179486749/capstone)
 
+![Glitcj-art](/media/glitch-art2.jpg)
+
+
+![Glitcj-art](/media/glitch-art3.jpg)
