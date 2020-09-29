@@ -1,4 +1,4 @@
-@@ Artist Statement
+## Artist Statement
 
 It is difficult to tie yourself down to one interest, one industry or one career - at least that’s what I’ve always thought. I never believed in specializing in one small thing. Everyone should have a portfolio of skills, so each new challenge or project in their work or personal lives can be approached from multiple perspectives, bridging skills from one experience to another. 
 
