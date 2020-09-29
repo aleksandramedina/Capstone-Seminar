@@ -1,4 +1,4 @@
-## Bio & Artist Statement
+## September 29
 
 There are two files in this folder:
 - my bio
