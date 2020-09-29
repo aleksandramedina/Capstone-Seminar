@@ -11,6 +11,7 @@ This week I thought more about two things:
 ![A Continuous Line](/media/continuousline.JPG)
 
 
-
 P5 Generated Line Art
 
+
+![P5 Art](/media/p5art.jpg)
