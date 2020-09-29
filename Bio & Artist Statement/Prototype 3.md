@@ -20,3 +20,7 @@ P5 Generated Line Art
 
 
 ![P5 Art](/media/p5art.jpg)
+
+
+In the case of human generated, computer interrupted art, I have been taking inspiration from [glitch art](https://www.behance.net/collection/179486749/capstone)
+
