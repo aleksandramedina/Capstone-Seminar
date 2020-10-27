@@ -4,8 +4,10 @@
 Welcome to my **Capstone Seminar** repository. Here I will post my work from the class.
 
 <b>Currently working on:</b>👩🏼‍💻
-- [ ] My fianlized artist statement
-- [ ] My finalized bio
+- [ ] Reflection blog post
+- [x] Midterm paper
+- [x] My fianlized artist statement
+- [x] My finalized bio
 - [x] My first prototype
 - [x] My second prototype
 - [x] My artist statement first draft
