@@ -4,7 +4,9 @@
 Welcome to my **Capstone Seminar** repository. Here I will post my work from the class.
 
 <b>Currently working on:</b>👩🏼‍💻
-- [ ] Reflection blog post
+- [x] Draft Capstone Project Plan
+- [x] Reflection blog post 2
+- [x] Reflection blog post
 - [x] Midterm paper
 - [x] My fianlized artist statement
 - [x] My finalized bio
