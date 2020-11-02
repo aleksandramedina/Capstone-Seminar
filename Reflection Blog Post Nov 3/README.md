@@ -16,4 +16,6 @@
 - [Simple paint & clear P5 sketch](https://editor.p5js.org/Jokester/sketches/rkIjK5N6m)
 - [An entire Paint Program P5 sketch](https://editor.p5js.org/ebenjmuse/sketches/SyUM1iX0b)
 
+![P5 sketch](/media/p5sketch-1.png)
+
 
