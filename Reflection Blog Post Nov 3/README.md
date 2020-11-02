@@ -7,3 +7,11 @@
 - try out the simple first step P5 sketch
 - try networking it
 - ask Aaron and Mang if AI would be helpful / if there's anything I can pick up relatively fast
+
+**Fun p5 sketches I found, which I could incorporate as drawing 'tools':**
+
+- [Fun P5 sketches](https://www.maayanalbert.com/p5js-sketches)
+- [Source code for mouse press and brush effect](https://processing.org/examples/mousepress.html)
+- [My work from a P5 class I took in Shanghai](https://wp.nyu.edu/aleksandramedina/)
+
+
