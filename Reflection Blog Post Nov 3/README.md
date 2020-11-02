@@ -13,5 +13,7 @@
 - [Fun P5 sketches](https://www.maayanalbert.com/p5js-sketches)
 - [Source code for mouse press and brush effect](https://processing.org/examples/mousepress.html)
 - [My work from a P5 class I took in Shanghai](https://wp.nyu.edu/aleksandramedina/)
+- [Simple paint & clear P5 sketch](https://editor.p5js.org/Jokester/sketches/rkIjK5N6m)
+- [An entire Paint Program P5 sketch](https://editor.p5js.org/ebenjmuse/sketches/SyUM1iX0b)
 
 
