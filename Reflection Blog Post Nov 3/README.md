@@ -33,3 +33,12 @@
 - [Convolution](https://p5js.org/examples/image-convolution.html)
 
 
+**A code that warps images:**
+
+[The p5 code](https://editor.p5js.org/am7625/sketches/SayLP6NhFQ)
+
+![NYC](/media/image1.jpg)
+
+![NYC warped](/media/p5sketch-2.png)
+
+
