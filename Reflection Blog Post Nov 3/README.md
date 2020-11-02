@@ -18,4 +18,18 @@
 
 ![P5 sketch](/media/p5sketch-1.png)
 
+**A list of useful P5 source codes:**
+- [Draw a straight line](https://p5js.org/examples/drawing-continous-lines.html)
+- [Draw patterns](https://p5js.org/examples/drawing-patterns.html)
+
+
+**Interesting concepts for the 'virus':**
+- [Double random](https://p5js.org/examples/math-double-random.html)
+- [Random](https://p5js.org/examples/math-random.html)
+- [Noise 1D](https://p5js.org/examples/math-noise1d.html)
+- [Noise2D](https://p5js.org/examples/math-noise2d.html)
+- [Noise 3D](https://p5js.org/examples/math-noise3d.html)
+- [Random chords](https://p5js.org/examples/math-random-chords.html)
+- [Convolution](https://p5js.org/examples/image-convolution.html)
+
 
