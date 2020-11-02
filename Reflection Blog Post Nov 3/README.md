@@ -37,7 +37,7 @@
 
 [The p5 code](https://editor.p5js.org/am7625/sketches/SayLP6NhFQ)
 
-![NYC](/media/image1.jpg)
+![NYC](/media/image.jpg)
 
 ![NYC warped](/media/p5sketch-2.png)
 
