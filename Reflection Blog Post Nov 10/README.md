@@ -17,3 +17,10 @@ I've done some research and, luckily (?), because of Covid-19 and WFH, there are
 
 
 I checked out the options google drive has since it is something every NYU student is familiar with and has immediate access to. Turns out (maybe I'm the only one who wasn't aware of this) that there is a Google Draw tool, which is the perfect tool for me. It allows for real-time remote drawing together with its scribble option. It also has the commenting option which would allow me to see (without suggesting it to the subjects) whether people will naturally try to communicate with each other, what will they say, and how they will say it.
+
+
+![google draw](/media/googledraw.png)
+
+
+This is also ideal because it will allow me to engage as well playing the role of the algorithm. 
+
