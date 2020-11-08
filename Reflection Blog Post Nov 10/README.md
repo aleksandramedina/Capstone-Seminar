@@ -24,3 +24,15 @@ I checked out the options google drive has since it is something every NYU stude
 
 This is also ideal because it will allow me to engage as well playing the role of the algorithm. 
 
+
+
+**Here are some shortcomings:**
+
+- The users will see that it's me who is interfering with their drawing
+- There is not a lot I can do besides:
+    - change color
+    - change stroke 
+    - add some things
+    - delete some things
+- The users will see my movements (track my mouse) and thus be able to anticipate them; the element of surprise will be gone
+
