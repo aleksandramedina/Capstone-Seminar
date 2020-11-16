@@ -21,7 +21,7 @@ As discussed in my previous blog post, the platform I have chosen to test my con
 
 Draw a car.
 
-1. Pick your favorite color.
+1. Pick a color that is good for sketching.
 2. Draw two circles next to each other on the same plane - these will be the tires.
 3. Now add the carcass of the car. The top of it is dome shape - like the Vokswagen Beetle.
 4. The car is driving towards your right side.
@@ -30,3 +30,14 @@ Draw a car.
 7. Color the car in the iconic Volkswagen Beetle color.
 
 These instructions are a mix of detailed and vague guidelines. I constructed this specifically so that I can see how users interact with each other in the two different scenarious.
+
+**Communication**
+
+To further test people's willingness / need to communicate, I have decided to give each user the chance to communicate three messages:
+- yes
+- no 
+- ?
+
+**Analysis**
+[Questionnaire]()
+
