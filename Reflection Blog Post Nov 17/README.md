@@ -14,3 +14,4 @@ As discussed in my previous blog post, the platform I have chosen to test my con
 Research:
 - [Yoko Ono](https://www.moma.org/magazine/articles/61)
 - [Understanding 11 Great Artists through the Instructions They Left Behind](https://www.artsy.net/article/artsy-editorial-understanding-11-great-artists-instructions-left)
+- [Do It: The art of Instructions](https://www.theguardian.com/artanddesign/2013/jul/09/do-it-manchester-festival)
