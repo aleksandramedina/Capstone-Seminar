@@ -1,6 +1,6 @@
 ## Weekly Update, November 17
 
-Contents:
+**Contents:**
 - a list of instructions for the first prototype for the users to follow
 - analysis of two prototype tests
 
