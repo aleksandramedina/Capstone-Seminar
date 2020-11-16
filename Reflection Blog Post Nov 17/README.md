@@ -10,3 +10,7 @@ As discussed in my previous blog post, the platform I have chosen to test my con
 
 
 **Instructions for Prototype Testing I**
+
+Research:
+- [Yoko Ono](https://www.moma.org/magazine/articles/61)
+- [Understanding 11 Great Artists through the Instruction They Left Behind](https://www.artsy.net/article/artsy-editorial-understanding-11-great-artists-instructions-left)
