@@ -36,6 +36,8 @@ To further test people's willingness / need to communicate, I have decided to gi
 - no 
 - ?
 
+![communication](communication.JPG)
+
 ### Analysis
 [Questionnaire]()
 
