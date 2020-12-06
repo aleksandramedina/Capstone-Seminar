@@ -13,5 +13,5 @@ ml5js:
 ## Notes from call with Professor Aaron
 ### December 6
 
-- ![Bad TV shader](http://felixturner.github.io/bad-tv-shader/example/)
-- ![Andrew Benson](https://pixlpa.com)
+- [Bad TV shader](http://felixturner.github.io/bad-tv-shader/example/)
+- [Andrew Benson](https://pixlpa.com)
