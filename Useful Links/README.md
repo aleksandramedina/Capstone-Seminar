@@ -14,4 +14,7 @@ ml5js:
 ### December 6
 
 - [Bad TV shader](http://felixturner.github.io/bad-tv-shader/example/)
+  - [p5.js tutorial](https://itp-xstory.github.io/p5js-shaders/)
 - [Andrew Benson](https://pixlpa.com)
+- [Glitch art inspiration](https://www.reddit.com/r/glitch_art/)
+
