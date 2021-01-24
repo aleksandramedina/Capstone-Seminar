@@ -1,3 +1,5 @@
+### Progress, January 26
+
 So far I have succeeded in two initial technical difficulties, which I am very happy about since the hardest part always is starting. 
 According to my timeline, I am currently in the Initial Userface Implementation phase. This phase includes:
 - incorporate finalized sketch concept into code (what will the user interface look like)
