@@ -6,11 +6,11 @@ According to my timeline, I am currently in the Initial Userface Implementation 
 I have made progress on both milestones I have set myself:
 
 
-![Here](https://editor.p5js.org/am7625/sketches/LNeGD4ziq) is a link to the p5 sketch I have made. While it is not the finalized version,
+[Here](https://editor.p5js.org/am7625/sketches/LNeGD4ziq) is a link to the p5 sketch I have made. While it is not the finalized version,
 it is a strong enough version to allow for user testing.
 
 
-![Here](https://drive.google.com/file/d/1D6a9-6gmc2MNWzC6-Tfg2lQ2NVmnSLVH/view?usp=sharing) is a link to a screen recording I have made of my 
+[Here](https://drive.google.com/file/d/1D6a9-6gmc2MNWzC6-Tfg2lQ2NVmnSLVH/view?usp=sharing) is a link to a screen recording I have made of my 
 initial steps towards linking two p5 sketches. As you can see these are elementary example sketches that I used to make sure I network 
 these two pages properly.
 
