@@ -18,7 +18,9 @@ these two pages properly.
 
 I have also uploaded my code unto GitHub.
 
-Here is a screenshot of the current layout of the website I will be hosting my project on:
+Here is a screenshot of the current layout of the website I will be hosting my project on. Of course all of this is still work in progress.
+
+
 ![browser instructions](/media/browser-introductions.png)
 
 
