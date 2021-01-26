@@ -19,7 +19,7 @@ these two pages properly.
 I have also uploaded my code unto GitHub.
 
 Here is a screenshot of the current layout of the website I will be hosting my project on:
-![browser instructions](/media/browser-instructions.png)
+![browser instructions](/media/"browser-instructions.png")
 
 
 My next steps include:
