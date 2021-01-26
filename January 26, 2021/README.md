@@ -29,3 +29,5 @@ My next steps include:
 - incorporate this sketch into the networked code
 
 
+After these steps I will move onto creating the algorithm.
+
