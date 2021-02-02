@@ -14,3 +14,6 @@ At first, I was following a p5 [example](https://editor.p5js.org/am7625/sketches
 
 
 I have also successfully incorporated these elements in my networked code. This means that the most minimal version of my website is ready! Now that this part is finished, I can move on to the next half and start creating the algorithm. I will start this by becoming more familiar with ml5.js, something that professor Ang suggested to me.
+
+
+[Here](https://drive.google.com/file/d/1eUCrRV8xPIkYCGtxkoNM7_eUySeJ_4Om/view?usp=sharing) is a short demo of my website at its current stage!
