@@ -2,7 +2,7 @@
 
 
 Now that the first technical challenge has been completed, I spent some time trying to figure out conceptually how to build out the second and most important part 
-of the project, which is the algorithm. As per suggestions from an IM faculty professor, I spent some time looking into ML5.js, however, I figured that, while it is 
+of the project, which is the algorithm. As per suggestions from an IM faculty professor, I spent a lot of time looking into ML5.js, however, I figured that, while it is 
 really interesting, it doesn't quite align with the project that I had in mind.
 
 
