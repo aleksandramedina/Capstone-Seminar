@@ -9,10 +9,21 @@ really interesting, it doesn't quite align with the project that I had in mind.
 After discussing with my capstone mentor, I decided to work out the structure of the algorithm will look like and how the different values will be stored. 
 
 
-<!--  - how do I store the rules? (an array, when to apply it, where to apply it, the extent of its effect)
-- set up one rule by the weekend
-- called at random or triggered by certain actions?
+Here are the technical challenges that I need to figure out:
+- how do I store the rules?
+    - an array
     - one array for different behaviors
     - one array for what triggers it
-- make a list of things I can detect; where would I implement that? how can I detect?
-    - someone being idle for a certain amount of time -->
+- when do I apply the rules?
+- where do I apply the rules?
+- what is the extent of its effect?
+- called at random or triggered by certain actions?
+
+
+Next to do:
+- set up one rule that will incorporate the whole structure
+    - make a list of things I can detect
+        - someone being idle for a certain amount of time
+    - where would I implement that?
+    - how can I detect it?
+    
