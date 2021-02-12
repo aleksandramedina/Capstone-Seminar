@@ -27,3 +27,12 @@ Next to do:
     - where would I implement that?
     - how can I detect it?
     
+
+**Possible inspirations:**
+- Scott Fitzgerald
+- Patrick Lichty
+- [Nature of Code by Daniel Schiffman](https://natureofcode.com/book/further-reading/)
+- [Archive of Digital Art](https://www.digitalartarchive.at/database/database-info/archive.html)
+- [Rhizome](https://rhizome.org/art/artbase/)
+- [Casey Reas](https://vimeo.com/45851523)
+- [Myron Kruegger](https://www.youtube.com/watch?v=dmmxVA5xhuo)
