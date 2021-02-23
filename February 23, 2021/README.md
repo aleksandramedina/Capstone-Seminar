@@ -1,4 +1,4 @@
-### Progress, February 21
+### Progress, February 23
 
 
 [Simran's suggested talk](https://vimeo.com/110607681)
