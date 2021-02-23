@@ -18,3 +18,6 @@ In the meantime I have continued exploring instructions and have settled on thre
 - Instruction 1: no 'interruptions' from the algorithm
 - Instruction 2: x and y coordinates swaped
 - Instruction 3: height of the ellipse = 1 so it appears as a line instead of a thick brush
+
+
+- [Link](https://drive.google.com/file/d/13XnPaBymQs86RYKgt7d_oWtucJH_aW7n/view?usp=sharing) to version 1 of my presentation.
