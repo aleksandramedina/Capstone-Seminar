@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mischievous Algorithm</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+
+  <body>
+    <header>
+    <div>
+      <!-- Button leading to the instructions -->
+      <span>
+        <a class="button instructions" onclick="location.href = '/home.html'"></a>
+      </span>
+      <!-- Button leading to canvas -->
+      <span>
+        <a class="btn canvas" onclick="location.href = '/index.html'"></a>
+      </span>
+
+      <!-- //Share
+      <span>
+        <a class="btn share" onclick="share();"></a>
+      </span>
+      //Clear all
+      <span>
+        <a class="btn clear" onclick="clearAll();"></a>
+      </span>
+      //Change background
+      <span>
+        <a class="btn background" onclick="toggleBackground();"></a>
+      </span>
+      //Color change
+      <span>
+        <a class="btn color"></a>
+        <a class="btn color-btn" onclick="changeColor();"></a>
+        <span id="color"></span>
+      </span>
+      //Glow
+      <span>
+        <a class="btn view" onclick="viewEdit();"></a>
+      </span>
+      //Sparkle
+      <span>
+        <a class="btn effect" onclick="changeEffect();"></a>
+      </span> -->
+    </div>
+    </header>
+
+  <div style="height:100px; width:100%; clear:both;"></div>
+
+<h3>What is this and how can you participate?</h3>
+<p>This is a fun and creative exercise that you will be working on together with your
+partner. Each of you will be following the same instructions with some intentional vagueness,
+with the goal of creating a collaborative art piece in real time. You are not allowed to
+communicate with each other, except with the tools provided on this web browser.</p>
+
+<p>There is a fun little twist though. There is a third entity that will be working together with
+you today. An algorithm has been created that will from time to time alter your output to make
+the process more creative and the result more unpredictable.</p>
+
+<p>Have fun!</p>
+
+<h3>Your task today: Draw a car</h3>
+
+<div class="row">
+
+  <div class="column">
+    <ul>
+      <li>Pick a color that is good for sketching.</li>
+      <li>Draw two circles next to each other on the same plane - these will be the tires.</li>
+      <li>Now add the carcass of the car. The top of it is dome shape - like the Vokswagen Beetle.</li>
+      <li>The car is driving towards your right side.</li>
+    </ul>
+  </div>
+
+  <div class="column">
+    <ul>
+      <li>Now add windows. There are two windows - at the driver's seat and the passanger's side.</li>
+      <li>Now add doors. There are two doors and two door handles.</li>
+      <li>Color the car in the iconic Volkswagen Beetle color.</li>
+    </ul>
+  </div>
+
+</div>
+<br>
+
+<div>
+  <a class = "Button" onclick="location.href = '/index.html'"> <b>Start the game</b></a>
+</div>
+
+  </body>
+</html>
