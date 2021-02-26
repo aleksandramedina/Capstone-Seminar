@@ -3,7 +3,7 @@ var colorPicker;
 var colorvalue;
 var strokeValue;
 var saturationcolor;
-let stages = [0, 1, 2];
+let stages = [0, 1, 2, 3, 4];
 var xPoint;
 var yPoint;
 var ellipseHeight = 20;
@@ -15,6 +15,7 @@ var b;
 var w = window.innerWidth;
 var h = window.innerHeight;
 var previousMillis = 0;
+var xoff = 0.0;
 
 function setup() {
   createCanvas(w,h);
@@ -52,20 +53,34 @@ function newDrawing(data){
     ellipseHeight = data.slider;
     xPoint = data.x;
     yPoint = data.y;
+    ellipse(xPoint, yPoint, data.slider, ellipseHeight);
   }
   else if (data.instruction==1){
     ellipseHeight = 1;
     xPoint = data.x;
     yPoint = data.y;
+    ellipse(xPoint, yPoint, data.slider, ellipseHeight);
   }
   else if (data.instruction==2){
     ellipseHeight = data.slider;
     xPoint = data.y;
     yPoint = data.x;
+    ellipse(xPoint, yPoint, data.slider, ellipseHeight);
+  }else if (data.instruction==3){
+    ellipseHeight = data.slider;
+    xPoint = data.x;
+    yPoint = data.y;
+    ellipse(xPoint, yPoint, data.slider, ellipseHeight);
+  }else if (data.instruction ==4){
+    ellipseHeight = data.slider;
+    xPoint = data.x;
+    yPoint = data.y;
+    rect(xPoint, yPoint, data.slider, ellipseHeight);
   }
-  ellipse(xPoint, yPoint, data.slider, ellipseHeight);
+
   // console.log(millis());
   console.log(ellipseHeight);
+  console.log(colorvalue);
 
 
 }
@@ -143,20 +158,47 @@ socket.emit('mouse', data);
 
           ellipse(mouseY, mouseX, slider.value(), slider.value());
 
-          }else {
+        } else if (data.instruction ==3){
+
+          noStroke();
+
+          if (checkbox.checked()){
+            fill(51);
+            colorvalue = 51;
+
+          } else {
+            fill('#ffffff');
+            colorvalue = (random (225));
+          }
+
+          ellipse(mouseX, mouseY, slider.value(), slider.value());
+          ellipseHeight = slider.value();
+
+
+        }  else if (data.instruction==4){
+          noStroke();
+
+          if (checkbox.checked()){
+            fill(51);
+            colorvalue = 51;
+
+          } else {
+            fill(220);
+            fill(colorPicker.value());
+            colorvalue = colorPicker.value();
+          }
+
+
+          rect(mouseX, mouseY, slider.value(), slider.value());
+          ellipseHeight = slider.value();
+
+
+        }else {
        console.log("Other instruction found");
      }
 
  }
 
-
-function changeBackground(){
-  r = random(255); // r is a random number between 0 - 255
-  g = random(255); // g is a random number betwen 0 - 255
-  b = random(255); // b is a random number between 0 - 255
-
- background(r,g,b);
-}
 
 function randomgenerator(){
   _instruction = random (stages);
@@ -196,3 +238,9 @@ function draw(){
 // } else {
 //   strokeValue = colorvalue;
 // }
+
+//noise
+//
+// xoff = xoff + 0.03;
+// let n = noise(xoff) * width;
+// line(n, 0, n, height);
