@@ -14,3 +14,8 @@ I also finalized five interferances for the live presentation:
 
 I was also working on my presentation [(linked here)](https://drive.google.com/file/d/1kj00JUFNbiQNDQ7cC8EOIxF5MDvebRCt/view?usp=sharing) and started drafting thoughts for the paper that I will have to hand in as a first draft quite soon. I have also 
 reached out to two people who have agreed to give me in-depth user testing feedback.
+
+
+Useful links:
+- [Jack's drawing program](https://github.com/jackbdu/redrawer/blob/master/js/sketch.js)
+- [Aaron's suggested generative design website](http://www.generative-gestaltung.de/2/)
