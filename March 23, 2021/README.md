@@ -10,6 +10,8 @@ Implementing Perlin noise:
 3. https://editor.p5js.org/aaronsherwood/sketches/9sp-2FCgR
 
 
+Troubleshooting with Jack.
+
 ### User testing
 
 **My mother**
