@@ -14,7 +14,7 @@
 
 Introducing more and more difficult "painting tools" had broken my networking system. One of the things that seemed to not be working was when I was manually changing the output color. After a lot of debugging, we realized it was because the color picker defined color as #hex, while when I was defining a random() color, it was generated as a RGB. After we introduced ``colorvalue = color(random (255),random (255),random (255)).toString('#rrggbbaa');`` the issue was fixed!
 
-**USER experience improvement based on feedback:**
+**User experience improvement based on feedback:**
 
 1. added instructions of the drawing next to the canvas
 2. clearly labeled each of the tools
