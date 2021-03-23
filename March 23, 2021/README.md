@@ -35,7 +35,7 @@ I am very, very happy to see that both users genuinely enjoyed the experience an
 
 
 **Next to do:**
-1. implement the system for randomness
-2. implement the 'introduction' of the algorithm
-3. small canvas fixes based on feedback
+1. Implement the system for randomness
+2. Implement the 'introduction' of the algorithm
+3. Small canvas fixes based on feedback
 
