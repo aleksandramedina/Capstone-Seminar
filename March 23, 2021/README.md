@@ -12,5 +12,5 @@ User testing:
 **My mother**
 ![flower](/media/puke.png)
 
-![boat](/media/boat.png)
+![boat](/media/laiva.png)
 
