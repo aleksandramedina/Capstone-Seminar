@@ -10,6 +10,7 @@ Implementing Perlin noise:
 User testing:
 
 **My mother**
-![flower](/media/puke.ong)
-![boat](/media/boat.ong)
+![flower](/media/puke.png)
+
+![boat](/media/boat.png)
 
