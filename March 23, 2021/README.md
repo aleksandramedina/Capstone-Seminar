@@ -10,7 +10,9 @@ Implementing Perlin noise:
 3. https://editor.p5js.org/aaronsherwood/sketches/9sp-2FCgR
 
 
-Troubleshooting with Jack.
+Troubleshooting with Jack:
+
+Introducing more and more difficult "painting tools" had broken my networking system. One of the things that seemed to not be working was when I was manually changing the output color. After a lot of debugging, we realized it was because the color picker defined color as #hex, while when I was defining a random() color, it was generated as a RGB. After we introduced ``colorvalue = color(random (255),random (255),random (255)).toString('#rrggbbaa');``
 
 ### User testing
 
