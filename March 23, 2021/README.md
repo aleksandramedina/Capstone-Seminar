@@ -23,3 +23,12 @@ Troubleshooting with Jack.
 **Luize**
 ![car](/media/car.png)
 
+
+**Learnings:**
+
+I am very, very happy to see that both users genuinely enjoyed the experience and were smiling and laughing throughout – this was the main purpose of the project! No one felt frustrated, instead they felt delightfully challenged. While Luīze gave me some more technical suggestions, it was interesting to see that both my mother and her suggested the same few things, which I will definitely include:
+1.	Divide the instructions so that the user can first familiarize themselves with the game and then read the drawing instructions while on the canvas page
+2.	Add a ‘conclusion’ to the game
+3.	After explaining to them the end product, both of them suggested introducing a way that the algorithm could ‘announce’ itself to the user, whenever it interferes.
+
+
