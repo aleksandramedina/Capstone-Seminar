@@ -1,5 +1,8 @@
 ### Progress, March 23
 
+
+### Code progress
+
 Implementing Perlin noise:
 
 1. https://editor.p5js.org/aaronsherwood/sketches/RIN11cy7d
@@ -7,7 +10,7 @@ Implementing Perlin noise:
 3. https://editor.p5js.org/aaronsherwood/sketches/9sp-2FCgR
 
 
-User testing:
+### User testing
 
 **My mother**
 ![flower](/media/puke.png)
