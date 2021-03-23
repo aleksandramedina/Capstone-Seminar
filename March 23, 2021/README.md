@@ -34,3 +34,8 @@ I am very, very happy to see that both users genuinely enjoyed the experience an
 3.	After explaining to them the end product, both of them suggested introducing a way that the algorithm could ‘announce’ itself to the user, whenever it interferes.
 
 
+**Next to do:**
+1. implement the system for randomness
+2. implement the 'introduction' of the algorithm
+3. small canvas fixes based on feedback
+
