@@ -1,7 +1,15 @@
 ### Progress, March 23
 
-https://editor.p5js.org/aaronsherwood/sketches/RIN11cy7d
+Implementing Perlin noise:
 
-https://editor.p5js.org/aaronsherwood/sketches/STglbE09r
+1. https://editor.p5js.org/aaronsherwood/sketches/RIN11cy7d
+2. https://editor.p5js.org/aaronsherwood/sketches/STglbE09r
+3. https://editor.p5js.org/aaronsherwood/sketches/9sp-2FCgR
 
-https://editor.p5js.org/aaronsherwood/sketches/9sp-2FCgR
+
+User testing:
+
+**My mother**
+![flower](/media/puke.ong)
+![boat](/media/boat.ong)
+
