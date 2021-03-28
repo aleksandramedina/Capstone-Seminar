@@ -13,6 +13,7 @@
 - fixed all bugs with the current seven instructions
 - create a [system](https://drive.google.com/file/d/1co-59dn0OpSGzj9Jd8QFbSQouFxHjXFc/view?usp=sharing) for the algorithm the "announce" itself
 - allowed for a natural end to the game, by creating a feature to save the finished artwork as a JPEG
+- improved UX by adding a clear canvas button (from user testing suggestions)
 
 **What still needs to be done:**
 - fix the call of random instructions
