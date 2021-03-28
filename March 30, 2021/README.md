@@ -7,6 +7,16 @@ Archive references:
 
 [Planning template](https://docs.google.com/document/d/1AFGZlsz6RG8YYydU7piX78VeFrMMCwE7Vwuw_qDNrd4/edit#)
 
+Things I have finished this week:
+- implemented the randomness method so that users are no longer assigned one instruction throughout their session
+- integrated Aaron's Perlin noise example and successfully networked it across multiple sketches
+- fixed all bugs with the current seven instructions
+
+What still needs to be done:
+- create a system for the algorithm the "announce" itself
+- add a feature that allows for a natural end to the game, such as a feature to save the finished artwork as a JPEG
+
+
 User testing:
 
 ![yacht drawn alone](/media/jahta.png)
