@@ -11,7 +11,7 @@
 - implemented the randomness method so that users are no longer assigned one instruction throughout their session
 - integrated Aaron's Perlin noise example and successfully networked it across multiple sketches
 - fixed all bugs with the current seven instructions
-- - create a [system](https://drive.google.com/file/d/1co-59dn0OpSGzj9Jd8QFbSQouFxHjXFc/view?usp=sharing) for the algorithm the "announce" itself
+- create a [system](https://drive.google.com/file/d/1co-59dn0OpSGzj9Jd8QFbSQouFxHjXFc/view?usp=sharing) for the algorithm the "announce" itself
 
 **What still needs to be done:**
 - add a feature that allows for a natural end to the game, such as a feature to save the finished artwork as a JPEG
