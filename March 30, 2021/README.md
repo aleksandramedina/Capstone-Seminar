@@ -23,7 +23,11 @@
 
 **User testing:**
 
+Example of a user creaetinga drawing by themselves:
+
 ![yacht drawn alone](/media/jahta.png)
 
+
+Collaboration between three people:
 
 ![meadow drawn by two people](/media/plava.png)
