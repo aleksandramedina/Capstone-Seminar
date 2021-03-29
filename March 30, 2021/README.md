@@ -23,7 +23,7 @@
 
 **User testing:**
 
-Example of a user creaetinga drawing by themselves:
+Example of a user creating a drawing by themselves:
 
 ![yacht drawn alone](/media/jahta.png)
 
