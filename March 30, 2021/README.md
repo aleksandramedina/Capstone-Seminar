@@ -17,6 +17,10 @@
 - fixed the call of random instructions (only one random instruction is being called at a time
 - fix the 'announcement' bug (only one message is being sent at a time
 
+
+**Updated interface:**
+![updated interface](/media/updatedInterface.png)
+
 **What still needs to be done:**
 - write the full introduction page
 
