@@ -14,10 +14,11 @@
 - create a [system](https://drive.google.com/file/d/1co-59dn0OpSGzj9Jd8QFbSQouFxHjXFc/view?usp=sharing) for the algorithm the "announce" itself
 - allowed for a natural end to the game, by creating a feature to save the finished artwork as a JPEG
 - improved UX by adding a clear canvas button (from user testing suggestions)
+- fixed the call of random instructions (only one random instruction is being called at a time
+- fix the 'announcement' bug (only one message is being sent at a time
 
 **What still needs to be done:**
-- fix the call of random instructions
-- fix the 'announcement' bug
+- write the full introduction page
 
 
 **User testing:**
