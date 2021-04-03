@@ -7,7 +7,7 @@ documented my process.
 <b>This archive includes:</b>
 - Code
 - Showcase video
-- A directory of user generated works
+- [A directory of user generated works](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/User%20Experiences%20in%20Images)
 - Final paper
 - Midterm paper
 - Final presentation
