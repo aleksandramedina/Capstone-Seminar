@@ -7,6 +7,7 @@ documented my process.
 <b>This archive includes:</b>
 - Code
 - Showcase video
+- A directory of user generated works
 - Final paper
 - Midterm paper
 - Final presentation
