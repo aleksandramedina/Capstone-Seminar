@@ -5,7 +5,7 @@ Welcome to my **Capstone Seminar** repository. Here I have posted work throughou
 documented my process.
 
 <b>This archive includes:</b>
-- Code
+- [Code](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/Code)
 - Showcase video
 - [A directory of user generated works](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/User%20Experiences%20in%20Images)
 - Final paper
