@@ -17,7 +17,7 @@ be more playful, open-minded and receptive. It is important to keep the complete
 <b>This archive includes:</b>
 - [Code](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/Code)
 - [Interface](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/Interface)
-- Showcase video
+- [Showcase video](https://drive.google.com/file/d/1z7JQ6wP7kcJILxm9EYywrgZ5bB-9kuLm/view?usp=sharing)
 - [A directory of user generated works](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/User%20Experiences%20in%20Images)
 - [Final paper](https://github.com/aleksandramedina/Capstone-Seminar/blob/master/Spring%20Final%20Essay.pdf)
 - [Midterm paper](https://github.com/aleksandramedina/Capstone-Seminar/blob/master/Final%20essay.pdf)
