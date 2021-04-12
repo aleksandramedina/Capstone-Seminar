@@ -14,7 +14,7 @@ Initially, there was an idea to also include a simple messaging functionality â€
 be more playful, open-minded and receptive. It is important to keep the complete interface as simple and familiar as possible to avoid frustrations and be able to focus on the relationship between the users and the algorithm. While users are interacting with each other through the canvas, on the backend, there is the Mischievous Algorithm that changes the usersâ€™ work in ways that only a computer could do.
 
 
-<b>This archive includes:</b>
+### This archive includes:
 - [Code](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/Code)
 - [Interface](https://github.com/aleksandramedina/Capstone-Seminar/tree/master/Interface)
 - [Showcase video](https://drive.google.com/file/d/1z7JQ6wP7kcJILxm9EYywrgZ5bB-9kuLm/view?usp=sharing)
@@ -24,3 +24,9 @@ be more playful, open-minded and receptive. It is important to keep the complete
 - [Final presentation](https://drive.google.com/file/d/13XnPaBymQs86RYKgt7d_oWtucJH_aW7n/view?usp=sharing)
 - [Midterm presentation](https://drive.google.com/file/d/1G-5sHaPmxv36_BUBpYBu9zGmHpBIAWCZ/view?usp=sharing)
 - Weekly reflection blogs
+
+
+### Instructions for the user:
+
+
+### Instructions to run the program:
