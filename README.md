@@ -41,7 +41,7 @@ P.S. You do NOT need to follow the drawing instructions, if you want to be more 
 
 ### Instructions to run the program:
 
-- download the Algorithm.zip
+- download the Algorithm.zip from the repo
 - unzip it
 - run terminal on your computer to start the node
     - cd Algorithm
@@ -49,7 +49,7 @@ P.S. You do NOT need to follow the drawing instructions, if you want to be more 
 - install ngrok on your machine; [here](https://ngrok.com/download) are the instructions
 - open a new terminal window
     - access the ngrok file
-    - ./ngrok http 3000
+    - type in: ./ngrok http 3000
 - copy the link that is provided by ngrok 
 - replace the link in the sketch.js file
     - socket = io.connect('insert link here')
