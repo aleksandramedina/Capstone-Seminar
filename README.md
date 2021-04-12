@@ -28,5 +28,29 @@ be more playful, open-minded and receptive. It is important to keep the complete
 
 ### Instructions for the user:
 
+- find a friend to do it with (or you can do it by yourself!)
+- open a unique Ngrok link provided to you (in order to be able to access the project, someone has to run it on their computer)
+- each user accesses the link from their own machine (a laptop is preferred)
+- the project works on all browsers, but Chrome is preferred
+- read the instructions
+- enjoy :)
+- when you feel like you're done, click the save button to save your art work
+
+P.S. You do NOT need to follow the drawing instructions, if you want to be more creative!
+
 
 ### Instructions to run the program:
+
+- download the Algorithm.zip
+- unzip it
+- run terminal on your computer to start the node
+    - cd Algorithm
+    - node server.js
+- install ngrok on your machine; [here](https://ngrok.com/download) are the instructions
+- open a new terminal window
+    - access the ngrok file
+    - ./ngrok http 3000
+- copy the link that is provided by ngrok 
+- replace the link in the sketch.js file
+    - socket = io.connect('insert link here')
+
