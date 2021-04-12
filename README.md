@@ -53,4 +53,7 @@ P.S. You do NOT need to follow the drawing instructions, if you want to be more 
 - copy the link that is provided by ngrok 
 - replace the link in the sketch.js file
     - socket = io.connect('insert link here')
+- share the link with the participants!
+
+P.S. Do NOT close the terminal window (or your computer) while someone else is interacting with the project. This will deem the link useless and you will need to repeat the process.
 
